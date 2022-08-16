@@ -1,0 +1,125 @@
+button{
+    padding-top: 5px; 
+    border-radius:10px;  
+    background-color: rgb(0, 106, 255);
+    
+}
+li {
+    list-style-type: none;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-left: 100px;
+    color:yellow;
+    font-size: 20px;
+
+
+    
+}
+ul{
+    display: flex;
+
+
+}
+.home{
+    background-color: blue;
+    display: flex;
+}
+.haha{
+    display: flex;
+}
+h1 {
+    margin: 100px 300px;
+    display: inline;
+
+}.f{
+font-size: 20px;
+margin-right: 10px;
+color: red;
+
+}
+.b1{
+    border-radius:10px;  
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+}
+
+
+
+.gg{
+margin-bottom: 100px;
+}
+.ff{
+    display: inline;
+    height: 100px;
+
+
+
+
+   
+}
+.hg{
+
+}
+.m{
+    display: flex;
+   margin-left: 90px;
+   padding-bottom:300px;
+ 
+}
+
+
+.b{
+    padding: 0;
+    margin: 0;
+
+}
+.bb{
+  padding-right: 50px;
+  margin-bottom: 500px;
+
+}
+p{
+  color: red;
+}
+.mm{
+    font-size: 20px;
+   
+}
+.ggh{
+    display: flex;
+}
+.f{
+
+}
+.ghgh{
+    padding: 0px;
+    margin: 0px;
+}
+.ff{
+    font-size: 30px;
+}
+.ghjk{
+    padding: 0px;
+    margin: 0px;
+}
+.hhjj{
+    font-size: 30px;
+}
+.p1{
+    font-size: 30px;
+}
+.ggg{
+    display: flex;
+    justify-content: space-around;
+}
+.ggg2{
+    display: flex;
+    justify-content: space-around;
+}.ggg3{
+    display: flex;
+    justify-content: space-around;
+}
+.mmm{
+    font-size: 30px;
+}
